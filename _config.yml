@@ -15,15 +15,15 @@
 # in the templates via {{ site.myvariable }}.
 title: Richard Bartels
 description: >- # this means to ignore newlines until "baseurl:"
-  data scientist - astrophysicist - triathlete
+  data science - astrophysics - triathlon
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://richardbartels.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 author:
   email: richard.t.bartels@gmail.com
-  #twitter_username:
   github_username: richardbartels
-
+  linkedin_username: richard-tony-bartels
+  medium_username: richard.bartels
 # Build settings
 markdown: kramdown
 theme: minima
