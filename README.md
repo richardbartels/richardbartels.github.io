@@ -10,3 +10,6 @@ My personal website
 ### Tutorial 
 * [How to make a website](https://www.youtube.com/watch?v=pxua_1vyFck&index=4&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
+## Fonts
+### SVG icons
+* Available from[icomoon](https://icomoon.io).
