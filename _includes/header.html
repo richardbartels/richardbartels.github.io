@@ -19,9 +19,12 @@
         <div class="navigation-wrapper">
 
           <nav class="cover-navigation cover-navigation--primary">
-            <ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}/#about" title="link to {{ site.title }} about" class="blog-button">About</a></li>
-            </ul>
+              <ul class="navigation">
+                  <li class="navigation__item"><a href="{{ site.baseurl }}/about-me" title="link to {{ site.title }} about-me" class="about-button">About</a></li>
+              </ul>
+<!--              <ul class="navigation">-->
+<!--                  <li class="navigation__item"><a href="{{ site.baseurl }}/#blog" title="link to {{ site.title }} blog" class="blog-button">Blog</a></li>-->
+<!--              </ul>-->
           </nav>
 <!--          <nav class="cover-navigation cover-navigation&#45;&#45;primary">-->
 <!--            <ul class="navigation">-->
@@ -73,6 +76,17 @@
               </li>
             {% endif %}
 
+            {% if site.author.medium_username %}
+              <!-- Medium -->
+              <li class="navigation__item">
+                <a href="https://medium.com/@{{ site.author.medium_username }}" title="{{ site.author.medium_username }} on Medium" target="_blank">
+<!--                  <i class="icon icon-social-medium"></i>-->
+                  <i class="icon icon-social-medium"></i>
+                  <span class="label">Medium</span>
+                </a>
+              </li>
+            {% endif %}
+
             {% if site.author.email %}
               <!-- Email -->
               <li class="navigation__item">
@@ -84,12 +98,12 @@
             {% endif %}
 
             <!-- RSS -->
-            <li class="navigation__item">
-              <a href="{{ site.baseurl }}/feed.xml" title="Subscribe" target="_blank">
-                <i class="icon icon-rss"></i>
-                <span class="label">RSS</span>
-              </a>
-            </li>
+<!--            <li class="navigation__item">-->
+<!--              <a href="{{ site.baseurl }}/feed.xml" title="Subscribe" target="_blank">-->
+<!--                <i class="icon icon-rss"></i>-->
+<!--                <span class="label">RSS</span>-->
+<!--              </a>-->
+<!--            </li>-->
 
             </ul>
           </nav>
