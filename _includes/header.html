@@ -4,7 +4,9 @@
 </span>
 
 <header class="panel-cover" style="background-image: url({{ site.baseurl }}/images/cover.jpg)">
-  <div class="panel-main">
+  <div class="panel-main"><svg style="display: none">
+
+    {% include svg.html %}
 
     <div class="panel-main__inner panel-inverted">
     <div class="panel-main__content">
@@ -87,12 +89,34 @@
               </li>
             {% endif %}
 
+
             {% if site.author.email %}
               <!-- Email -->
               <li class="navigation__item">
                 <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
                   <i class="icon icon-mail"></i>
                   <span class="label">Email</span>
+                </a>
+              </li>
+            {% endif %}
+            {% if site.author.orcid_id %}
+
+            <!-- Orcid -->
+            <li class="navigation__item">
+                <a href="https://orcid.org/{{ site.author.orcid_id }}" title="Orcid {{ site.author.orcid_id }}" target="_blank">
+                    <span style="font-size: 1em;"><svg class="svg-icon"><use xlink:href="#icon-orcid"></use></svg></span>
+<!--                    <span class="label">Email</span>-->
+                </a>
+            </li>
+            {% endif %}
+
+	        {% if site.author.strava_id %}
+              <!-- Strava -->
+              <li class="navigation__item">
+                <a href="https://www.strava.com/athletes/{{ site.author.strava_id }}" title="Richard Bartels on Strava" target="_blank">
+<!--                  <i class="fa_svg fab.fa-strava"></i>-->
+                    <span style="font-size: 1em;"><svg class="svg-icon"><use xlink:href="#icon-strava"></use></svg></span>
+<!--                  <span class="label">Email</span>-->
                 </a>
               </li>
             {% endif %}

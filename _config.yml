@@ -23,7 +23,9 @@ author:
   email: richard.t.bartels@gmail.com
   github_username: richardbartels
   linkedin_username: richard-tony-bartels
-  medium_username: richard.bartels
+#  medium_username: richard.bartels
+  orcid_id: 0000-0001-7214-8029
+  strava_id: 12941019
 # Build settings
 markdown: kramdown
 theme: minima
