@@ -7,6 +7,9 @@ My personal website
 * gem install --user-install bundler jekyll
 * echo 'export PATH=$HOME/.gem/ruby/X.X.0/bin:$PATH' >> ~/.bash_profile
 
+### Test it locally:
+* `bundle exec jekyll serve`
+
 ### Tutorial 
 * [How to make a website](https://www.youtube.com/watch?v=pxua_1vyFck&index=4&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
