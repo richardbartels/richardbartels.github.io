@@ -73,7 +73,7 @@ De volgende ochtend is de eetlust weer teruggekeerd en eet ik nog 1 1/4e pizza v
 
 De spierpijn blijft lang hangen. In totaal zo'n anderhalve week. Natuurlijk wordt deze steeds minder, maar hardlopen zit er echt nog niet in. Na anderhalve week kan ik weer een rustig herstelloopje doen. De eerste gaat nog heel moeizaam, maar de tweede alweer een stuk beter. Al merk ik wel dat ik nogsteeds vermoeid ben. De rusthartslag blijft ook en ook mijn HRV blijft ondermaats. Pas na twee weken begint de HRV weer op peil te komen en voel ik ook weer kracht terugkeren in mijn benen. Dat geeft wel een goed gevoel, want was even bang dat het weg zou blijven. Echter, na een paar dagen toch ook weer een griepje te pakken. Valt ook terug te zien aan een flinke dip in de HRV 's nachts. Wellicht is de weerstand toch nog iets verzwakt? Of gewoon pech? Gelukkig gaat het herstel hiervan snel en voel ik mij hierna weer zoals voorheen. Er komt zelfs een beetje zin om te lopen terug.
 
-<img src="/images/20240324/hrv.jpg"
+<img src="/images/20240324/hrv.png"
      alt="HRV"
      style="float: left; margin-right: 10px;" />
 
