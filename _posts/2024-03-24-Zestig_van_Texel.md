@@ -49,15 +49,37 @@ Ok door, de Sluftervallei in. Daar wordt ik tegen het eind ingehaald door een fl
 
 Het stuk tussen de Sluftervallei en de Cocksdorp gaat dan wel weer aardig. Hier wordt ik zo nu en dan ingehaald door een solo 60km loper. Bij het verlaten van de duinen staan ook Cora en Hessel weer. Dit was ongepland maar wel fijn!
 
-Maar dan begint de echte lijdensweg, terug vanuit de Cocksdorp langs de Oostkust naar benenden met een uitstapje door Oosterend. Ik stop bij elke post voor meer Cola. En na elke keer stoppen is het ontzettend moeilijk om weer te gaan lopen. Mijn bovenbenen zijn opgeblazen en de dip waarvan ik dacht dat ik die misschien nog wel zou overkomen is een gapende diepte geworden waar ik vandaag niet meer uit ga klimmen. Compleet leeg ben ik niet, dat ik het uit ga lopen daar heb ik wel vertrouwen in. Alleen de afstand (ruim 20km) daar kijk ik tegenop. Dat zegt genoeg, ik had hier moeten denken "kom op, nog maar 20km". In plaats daarvan tel ik de kilometers. Ik word ook niet meer ingehaald door eenlingen, maar inmiddels door hordes mensen, solo en estafettelopers tezamen. En bijna iedereen moedigt aan. Cora en Hessel staan op alle afgesproken plaatsen klaar, en vaker. Cora loopt na op 17km, bij het laatste wisselpunt van de estafettelopers, een stukje mee en Hessel rent een stukje mee bij Oudeschild. Daar staan ook Elias en Tera nog een laatste keer.
+Maar dan begint de echte lijdensweg, terug vanuit de Cocksdorp langs de Oostkust naar benenden met een uitstapje door Oosterend. Ik stop bij elke post voor meer Cola. En na elke keer stoppen is het ontzettend moeilijk om weer te gaan lopen. Mijn bovenbenen zijn opgeblazen en de dip waarvan ik dacht dat ik die misschien nog wel zou overkomen is een gapende diepte geworden waar ik vandaag niet meer uit ga klimmen. Compleet leeg ben ik niet, dat ik het uit ga lopen daar heb ik wel vertrouwen in. Alleen de afstand (ruim 20km) daar kijk ik tegenop. Dat zegt genoeg, ik had hier moeten denken "kom op, nog maar 20km". In plaats daarvan tel ik de kilometers. Ik word ook niet meer ingehaald door eenlingen, maar inmiddels door hordes mensen, solo en estafettelopers tezamen. En bijna iedereen moedigt aan. Onbekenden en soms bekenden. Elke keer weer een klein lichtpuntje. Cora en Hessel staan op alle afgesproken plaatsen klaar, en vaker. Cora loopt op 17km van de finish, bij het laatste wisselpunt van de estafettelopers, een stukje mee en Hessel rent een stukje mee bij Oudeschild. Daar staan ook Elias en Tera nog een laatste keer.
 
-En dan rechtsaf, weg bij de kust en terug richting den Burg. Vol tegen de wind in. Achja, echt heel veel maakt het niet meer uit. Het was een lange dag, en die gaat nog ietsje langer duren. 
+En dan rechtsaf, weg bij de kust en terug richting den Burg. Vol tegen de wind in. Achja, echt heel veel maakt het niet meer uit. Het was een lange dag, en die gaat nog ietsje langer duren. Ergens op dit laatste stuk heb ik nog een plekje verloren, dus ik eindig waar ik begon op plek 6. De laatste kilometer gaat dan opzich wel weer redelijk. Merel staat een stukje voor de finish en ik vraag aan haar of ze aan Tera wil vragen of ze Elias wil geven. Dat lukt, en samen met Elias ga ik, naar een kleine 11.5 uur, over finish. Moe en voor het eerst in uren ook weer met een voldaan gevoel. Hier had ik - al een hele tijd - naar uitgekeken. Even een praatje met Henri die de finishers ontvangt en vervolgens vermoeid plaatsnemen op de paddestoel voor de Stayokay. 
 
+<img src="/images/20240324/finish.jpg"
+     alt="Finish"
+     style="float: left; margin-right: 10px;" />
 
+Al snel staat Maik naast mij. Coen, Hidde, Merel en hij hebben de estafette gelopen. Ik dacht vooraf dat ze mij nooit zouden inhalen, ik begon natuurlijk ruim 1.5 uur eerder aan de laatste 60km dan zij aan hun race begonnen. Daarvan was aan het eind nog ongeveer 2 minuten over. Waren we nog bijna samen gefinisht! Hele mooie race van hen onder deze zware omstandigheden!
+
+<img src="/images/20240324/paddestoel.jpg"
+     alt="Bij de paddestoel"
+     style="float: left; margin-right: 10px;" />
+
+Met iedereen bijeen gaan we naar binnen bij de StayOkay, en daar wordt een Tesselaar gedronken. Die smaakt heel prima! Stuk beter dan al die gels en zoetigheid van vandaag.
+Na de race gaan we naar het huisje en halen pizza. Hele goede ook!  Toch krijg ik maar met moeite een halve weg. En ondanks de vermoeidheid is ook de slaap later erg matig.
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11029185311" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
 
-* Volgend ekeer wel fietsbegeleider 
+## En toen
+De volgende ochtend is de eetlust weer teruggekeerd en eet ik nog 1 1/4e pizza voor het ontbijt. We pakken de spullen in want om 10 uur moeten we weer uit het huisje zijn. Hidde en Hannah vertrekken wat eerder en Maik, Merel, Tera en ik maken nog een wandeling. Daarbij moet ik oppassen, want soms verkrampt mijn bovenbeen nog steeds. Die zijn nog niet hersteld!
+
+De spierpijn blijft lang hangen. In totaal zo'n anderhalve week. Natuurlijk wordt deze steeds minder, maar hardlopen zit er echt nog niet in. Na anderhalve week kan ik weer een rustig herstelloopje doen. De eerste gaat nog heel moeizaam, maar de tweede alweer een stuk beter. Al merk ik wel dat ik nogsteeds vermoeid ben. De rusthartslag blijft ook en ook mijn HRV blijft ondermaats. Pas na twee weken begint de HRV weer op peil te komen en voel ik ook weer kracht terugkeren in mijn benen. Dat geeft wel een goed gevoel, want was even bang dat het weg zou blijven. Echter, na een paar dagen toch ook weer een griepje te pakken. Valt ook terug te zien aan een flinke dip in de HRV 's nachts. Wellicht is de weerstand toch nog iets verzwakt? Of gewoon pech? Gelukkig gaat het herstel hiervan snel en voel ik mij hierna weer zoals voorheen. Er komt zelfs een beetje zin om te lopen terug.
+
+<img src="/images/20240324/hrv.jpg"
+     alt="HRV"
+     style="float: left; margin-right: 10px;" />
+
+Dus wat heb ik geleerd van deze race? Allereerst dat het heel leuk is om er een weekendje van te maken en met een grotere groep aan de race mee te doen, dat was erg gezellig! Daarnaast ben ik ook tevreden over mijn kledingkeuze. Het was verstandig om met regenjack en waterdichte handschoenen te lopen. Al had een lange broek misschien ook niet misstaan (al denk ik niet dat de spierpijn in mijn bovenbenen door de koude kwam). Meer lange duurtrainingen had misschien toch verstandig geweest, alleen dit paste simpelweg niet in het grotere schema van het leven. Ik denk dat ik een heel fatsoenlijke 60km had kunnen lopen met deze voorbereiding, maar 120km was gewoon net iets te ver, onder deze omstandigheiden tenminste. Daarnaast ook de kwaliteit van de trainingen, ik had niet verwacht dat mijn bovenbenen zo zouden opblazen. Voor mijn gevoel was dit minder dan tijdens de 100mijl die ik in 2022 liep met veel meer hoogtemeters. Hoewel daar de bovenbenen ook pijn deden, vooral met omlaag lopen. De verschillen? Ik liep hier, initieel, harder. Maar toen fietste ik ook nog best veel, met ook regelmatig krachtsessies op lage cadans (<60 RPM). Dat zorge misschien toch voor sterkere quadriceps. Dus de volgende keer: meer krachttraining, heuveltraining als ik heuvels kan vinden en wellicht trappen op en af rennen. Ook is een fietsbegeleider wellicht toch een voordeel bij deze race. Dat zou ik een volgende keer toch overwegen. Al was mijn support zoals altijd ook weer super! En minder gels. Ik miste zout en vet onderweg. Kom ik terug? Wie weet, bloed kruipt waar het niet gaan kan.
+
+Bedankt aan familie en vrienden voor de support en gezelligheid, en aan de organisatie en vrijwilligers voor hun inzet ook met dit barre weer!
 
 ## Voetnoten
 [^1] En dit schrijven ook, uiteindelijk heb ik dit afgeschreven op zaterdag 13 april in de avond, een kleine drie weken na de race.
