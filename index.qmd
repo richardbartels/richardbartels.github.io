@@ -1,5 +1,25 @@
 ---
-title: "website"
+title: ""
+image: images/profile_nepal.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: linkedin
+      href: https://nl.linkedin.com/in/richard-tony-bartels/
+      target: _blank
+    - icon: github
+      href: https://github.com/richardbartels
+      target: _blank
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0001-7214-8029
+      target: _blank
+    # - icon: envelope
+    #   text: Email
+    #   href: mailto:<emailadres>
 ---
 
 <style>
@@ -8,9 +28,5 @@ title: "website"
   background-size: cover;
   background-repeat: no-repeat;
 }
-  
 </style>
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
