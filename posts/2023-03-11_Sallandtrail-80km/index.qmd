@@ -1,12 +1,16 @@
 ---
-layout: post
-title:  "Sallandtrail 80km - 2023"
-date:   2023-03-17 00:00:00 +0100
-categories: jekyll update
+title: "Sallandtrail 80km - 2023"
+# description: "Some description"
+author:
+  - name: Richard Bartels
+date: 2023-03-17 00:00:00 +0100
+categories: [sports, running] # self-defined categories
+image: Sallandtrail_small.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
 
-Om 08.00 sta ik in Nijverdal aan de start van de 80km Sallandtrail. Ruim 9 maanden na de ["Grand Trail des lacs et Chateaux"](http://www.richardbartels.com/jekyll/update/2022/05/28/grand-trail-des-lacs-et-chateaux.html) en een kleine 9 maanden na de geboorte van Elias. 
+Om 08.00 sta ik in Nijverdal aan de start van de 80km Sallandtrail. Ruim 9 maanden na de ["Grand Trail des lacs et Chateaux"](/posts/2022-05-29_grand-trail-des-lacs-et-chateaux/index.qmd) en een kleine 9 maanden na de geboorte van Elias. 
 Vanaf 2 januari ben ik weer consequent begonnen met trainen, en de laatste twee weken van 2022 liep ik ook alweer rond de 55km in de week. 
 Ik heb er zin in! Ik voel me goed, mijn horloge zegt ook dat ik uitgerust en fit ben, en van het griepje dat mij 9 dagen geleden nog de hele dag in bed hield merk ik niets meer.
 

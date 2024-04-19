@@ -1,8 +1,12 @@
 ---
-layout: post
-title:  "Grand Trail des Lacs & Chateaux 160 - 2022"
-date:   2022-05-29 00:00:00 +0100
-categories: jekyll update
+title: "Grand Trail des Lacs & Chateaux 160 - 2022"
+# description: "Some description"
+author:
+  - name: Richard Bartels
+date: 2022-05-29 00:00:00 +0100
+categories: [sports, running] # self-defined categories
+image: school.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
 Het is zaterdagochtend 21 mei 2022 02.00 de wekker gaat, tijd om op te staan. Vandaag is de dag van mijn eerste 100 mijl race, de *Grand Trail des Lacs & Chateaux*. Met 6800m D+ en een ITRA 6 classificatie valt deze race in de zwaarste categorie. Al een aantal jaar loop ik met het idee om een 100 mijl race te lopen, de klassieke ultra afstand, en vandaag moet het gebeuren. 

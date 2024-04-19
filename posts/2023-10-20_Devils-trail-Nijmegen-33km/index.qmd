@@ -1,8 +1,12 @@
 ---
-layout: post
-title:  "Devil's trail Rijk van Nijmegen (33km) - 2023"
-date:   2023-11-03 00:00:00 +0100
-categories: jekyll update
+title: "Devil's trail Rijk van Nijmegen (33km) - 2023"
+# description: "Some description"
+author:
+  - name: Richard Bartels
+date: 2023-11-03 00:00:00 +0100
+categories: [sports, running] # self-defined categories
+image: DTNijmegen0006.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
 
