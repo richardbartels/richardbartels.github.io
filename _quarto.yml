@@ -1,14 +1,28 @@
 project:
   type: website
 
+execute:
+  freeze: auto
+
 website:
   title: "Richard Bartels"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      # - href: index.qmd
+        # text: Home
       - about.qmd
       - posts.qmd
+    right:
+      - icon: linkedin
+        href: https://nl.linkedin.com/in/richard-tony-bartels/
+      - icon: github
+        href: https://github.com/richardbartels
+      - text: "{{< fa brands orcid >}}"
+        href: https://orcid.org/0000-0001-7214-8029
+      - text: "{{< fa brands strava >}}"
+        href: https://www.strava.com/athletes/12941019
+      # - icon: envelope
+      #   href: mailto:richard.t.bartels@gmail.com
 
 format:
   html:

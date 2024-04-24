@@ -1,5 +1,23 @@
 ---
 title: "About"
+# toc: false
+about: 
+  template: jolla
+  image: images/profile_nepal.jpg
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: linkedin
+      href: https://nl.linkedin.com/in/richard-tony-bartels/
+      target: _blank
+    - icon: github
+      href: https://github.com/richardbartels
+      target: _blank
+    - text: "{{< fa brands orcid >}}"
+      href: https://orcid.org/0000-0001-7214-8029
+    - text: "{{< fa brands strava >}}"
+      href: https://www.strava.com/athletes/12941019
+
 ---
 
-About this site
+I'm Richard (1990) and this page is still under construction.
