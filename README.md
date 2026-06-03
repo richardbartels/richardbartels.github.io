@@ -1,7 +1,8 @@
 # My personal website
 This website was created using quarto.
 
-
+### Instructions
+Preview website using `quarto preview`
 
 ### Icons
 Install fontawesome extension
