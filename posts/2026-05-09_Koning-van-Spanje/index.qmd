@@ -3,9 +3,9 @@ title: "Koning van Spanje 2026 - 85km"
 # description: "Some description"
 author:
   - name: Richard Bartels
-date: 2026-06-03 00:00:00 +0100
-categories: [sports, trail] # self-defined categories
-# image: start.jpg
+date: 2026-09-02 00:00:00 +0100
+categories: [sports, trail, running] # self-defined categories
+image: brug.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
@@ -91,7 +91,8 @@ Ik kan me haast niet voorstellen dat het iemand van de 85km is, maar dat blijkt 
 Die heeft goed doorgelopen de laatste kilometers, want ons tempo is nog steeds vlak. Gelukkig voel ik dat er nog wat in de tank zit en vraag aan Peter of hij ook
 nog wat over heeft. Hij geeft een bevestigend antwoord en dan versnel ik. We trekken flink door, vooral op de Gulperberg de laatste klim van de dag. Als ik daar omkijk zie ik niemand meer achter ons.
 Bovenop de heuvel door blijven trekken en dan rechtsaf naar beneden. Het laatste stuk gaat omlaag dus ik zeg tegen Peter dat hij moet gaan want omlaag ga ik het toch afleggen,
-maar dat maakt niet uit want ik ben allang blij dat we het podium gehaald hebben na dit spannende laatste stukje. 
+maar dat maakt niet uit want ik ben allang blij dat we samen het podium gehaald hebben na dit spannende laatste stukje. 
+Zo'n hele dag samen oplopen werkt erg verbindend.
 
 Bij de finish zie ik Tera en kan ik even uitpuffen. Een paar minuten later finisht ook Gijs en Johno staat ook nog bij de finish. Hij blijkt
 uiteindelijk nog wat pittige laatste kilometers te hebben gehad en de voorsprong was geslonken tot minder dan vier minuten. Met z'n vieren praten we
